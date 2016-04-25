@@ -7,25 +7,36 @@ subtitle:
 
 ### Online Internship Tracking System 				    
 A PHP web application which keeps track of the activities by the student, admin, business, skill, internship opportunities, interests and placements.
-URL: http://dbtektons.us-east-1.elasticbeanstalk.com/
+
+GitHub URL: https://github.com/rajakamraj/Internship-Portal
 
 ### Movie Appinions						        
 An android mobile application where users can search, read, store and share reviews with their friends about the movie.
 
+GitHub URL:
+
 ### Event Tracker							        
 A data analytic web based application where events are retrieved as per location.  Based on the sentiment of the twitter data about the event, bar chart visualization and geographical map visualization were done using RESTful web services.  Few enhancements are in progress.
+
+GitHub URL: https://github.com/rajakamraj/Event-Tracker
 URL: http://appbluemixjavaeclipse.mybluemix.net/BlueMixAppJava/
 
 ### Election predictive System					   
 A data analytic web application built on Angular.js and Node.js framework for predicting popularity of US Election candidates using RESTful web services.
+
+GitHub URL: https://github.com/rajakamraj/Election-Predictive-analysis
 URL: https://electionpredictiveanalysis.mybluemix.net/ 
 
 ### CharlotteHack
-A Web application created using python Django framework. This project was created for the hackhathon "Charlotte Hack"
+A Web application created using python Django framework. This project was created for the hackhathon "Charlotte Hack".
+
+GitHub URL: https://github.com/rajakamraj/CharlotteHack
 Demo: https://youtu.be/9q4LlR5kX7w
 
 ### Sentiment Analyser 						       
 A desktop application, developed using python in PYQT4 framework, which implements python NLTK algorithms and Alchemy API to parse and generate sentiments of amazon product reviews and visualize sentiments using PYGOOGLE chart.
+
+GitHub URL: https://github.com/rajakamraj/Sentiment-Analyzer
 
 ### Shark Attack Prediction					
 Data mining techniques were explored to predict the shark attacks on the east coastal areas of North America using the data mining tool ‘WEKA’. Pattern occurrence of environmental and meteorological parameters in past years were considered.
