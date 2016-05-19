@@ -13,7 +13,7 @@ GitHub URL: https://github.com/rajakamraj/Internship-Portal
 ### Movie Appinions						        
 An android mobile application where users can search, read, store and share reviews with their friends about the movie.
 
-GitHub URL:
+GitHub URL:https://github.com/rajakamraj/MovieAppinions
 
 ### Event Tracker							        
 A data analytic web based application where events are retrieved as per location.  Based on the sentiment of the twitter data about the event, bar chart visualization and geographical map visualization were done using RESTful web services.  Few enhancements are in progress.
