@@ -19,13 +19,11 @@ GitHub URL:https://github.com/rajakamraj/MovieAppinions
 A data analytic web based application where events are retrieved as per location.  Based on the sentiment of the twitter data about the event, bar chart visualization and geographical map visualization were done using RESTful web services.  Few enhancements are in progress.
 
 GitHub URL: https://github.com/rajakamraj/Event-Tracker
-URL: http://appbluemixjavaeclipse.mybluemix.net/BlueMixAppJava/
 
 ### Election predictive System					   
 A data analytic web application built on Angular.js and Node.js framework for predicting popularity of US Election candidates using RESTful web services.
 
 GitHub URL: https://github.com/rajakamraj/Election-Predictive-analysis
-URL: https://electionpredictiveanalysis.mybluemix.net/ 
 
 ### CharlotteHack
 A Web application created using python Django framework. This project was created for the hackhathon "Charlotte Hack".
